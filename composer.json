@@ -1,0 +1,20 @@
+{
+    "name": "abdoulaye/ag_ab_blog",
+    "description": "construction d'un site de blog",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Config\\":"config"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sourouya-Abdoulaye & AGOUDA abdel Hakou",
+            "email": "akisourouyaabdoulaye@gmail.com"
+            
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0"
+    }
+}
