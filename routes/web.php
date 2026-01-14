@@ -8,7 +8,7 @@ $router->setBasePath('');
 
 // creation des routes
 $router->map('GET', '/', function() { 
-    echo "Welcome Page"; });
+    echo "Welcome Page to blog abdoulaye and agouda"; });
 
 
 // je vais matcher pour voi les correspondante
