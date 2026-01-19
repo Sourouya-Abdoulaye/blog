@@ -1,8 +1,8 @@
 <?php
 namespace App\Controllers;
-class ContactController{
-    function show(){
-        echo "Contact";
-    }
+class AboutController{
     
+    function show(){
+        echo "About";
+    }
 }
